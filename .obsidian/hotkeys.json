@@ -1,0 +1,26 @@
+{
+  "obsidian-hotkeys-for-templates:new-file-template-in-dailies-from-<% tp.date.now(“YYYY.MM.DD”) %> - daily.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "0"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "-"
+    }
+  ]
+}

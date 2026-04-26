@@ -1,0 +1,12 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "therapy",
+      "templateName": "{{date}} - therapy"
+    },
+    {
+      "folderPath": "therapy-review",
+      "templateName": "{{date}} - therapy check in"
+    }
+  ]
+}
